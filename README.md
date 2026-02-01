@@ -15,6 +15,12 @@ Automatically transcribe meeting recordings, generate AI-powered summaries, extr
 
 ---
 
+## 📊 Workflow Diagram
+
+![Meeting Notes Workflow](assets/workflow.png)
+
+---
+
 ## ✨ Key Features
 
 - ✅ **Auto-Transcription** - Convert audio/video to text using AssemblyAI/Deepgram
